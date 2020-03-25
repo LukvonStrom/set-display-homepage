@@ -3,14 +3,18 @@ import Row from "react-bootstrap/Row";
 import {DataProvider} from "../data/data-provider";
 import {SetDetailComponent} from "./set-detail.component";
 import {CardDeck, Container} from "react-bootstrap";
+import {SetFilterComponent} from "./set-filter.component";
 
 export class SetDisplayComponent extends Component {
     constructor(props) {
         super(props);
         this.state = {
             sets: null,
-            isFetching: true
+            isFetching: true,
+            genres: []
         };
+
+        this.selectGenre = this.selectGenre.bind(this);
     }
 
     /*
@@ -41,9 +45,14 @@ export class SetDisplayComponent extends Component {
         this.setState({isFetching: true});
         DataProvider.getSets()
             .then(sets => {
-                this.setState({sets, isFetching: false})
+                let genres = [...new Set(sets.map(set => set.genre))].sort();
+                this.setState({sets, isFetching: false, genres})
             })
             .catch(error => this.setState({isFetching: false, error}))
+    }
+
+    selectGenre(category){
+        this.setState({selectedGenre: category});
     }
 
     componentDidMount() {
@@ -51,9 +60,14 @@ export class SetDisplayComponent extends Component {
     }
 
     render() {
+        let preFilteredSets = (!!this.state.selectedGenre && !!this.state.sets && this.state.sets.filter(({genre}) => genre === this.state.selectedGenre) ) || this.state.sets;
         return (<Container>
 
-            {this.state.sets && this.state.sets.length > 0 && this.chunk(this.state.sets, 3).map((partition, index) =>
+            <Row>
+                <SetFilterComponent genres={this.state.genres} selectGenre={this.selectGenre}/>
+            </Row>
+
+            {this.state.sets && this.state.sets.length > 0 && this.chunk(preFilteredSets, 3).map((partition, index) =>
                 <Row key={index}>
                     <CardDeck className="my-2" key={index}>
                         {partition.map(set => <SetDetailComponent set={set} key={set.link}/>)}
