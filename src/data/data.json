@@ -120,7 +120,7 @@
       "venue": "",
       "title": "Best of Neelix",
       "link": "https://youtu.be/H3Efuh7czco",
-      "genre": "Proggressive Psy Trance",
+      "genre": "Progressive Psy Trance",
       "upbeat": "true"
     },
     {
@@ -231,13 +231,13 @@
       "artists": [
         "Virtual Riot",
         "Lektrique",
-        "Cory Enemy/Dalco",
-        "Josh Modestep"
+        "Enemy/Dalco",
+        "Modestep"
       ],
       "venue": "",
       "title": "Quarantine DJ Set",
       "link": "https://youtu.be/cxWGCnSVOtE",
-      "genre": "Dub Step",
+      "genre": "Dubstep/House",
       "upbeat": "true"
     },
     {
@@ -267,7 +267,7 @@
       "venue": "Drumcode Indoors 2020",
       "title": "",
       "link": "https://youtu.be/V0e1XbdE1jQ",
-      "genre": "",
+      "genre": "Techno/Tech House",
       "upbeat": "true"
     },
     {
@@ -297,7 +297,7 @@
       "venue": "",
       "title": "DJ Set from Barcelona",
       "link": "https://youtu.be/JTWXYIKun7U",
-      "genre": "",
+      "genre": "Tech House",
       "upbeat": "true"
     },
     {
@@ -307,7 +307,7 @@
       "venue": "",
       "title": "Radio Intense Barcelona 11.03.2020",
       "link": "https://youtu.be/WJkxRfD2UKA",
-      "genre": "",
+      "genre": "Tech House",
       "upbeat": "true"
     },
     {
@@ -339,6 +339,36 @@
       "link": "https://youtu.be/JGguLvdqNPE",
       "genre": "Satire",
       "upbeat": "false"
+    },
+    {
+      "artists": [
+        "I_O"
+      ],
+      "venue": "THE LAB LA",
+      "title": "",
+      "link": "https://youtu.be/nuOZULmbZPc",
+      "genre": "Techno/Tech House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "DAX J"
+      ],
+      "venue": "Reaktor 2019",
+      "title": "",
+      "link": "https://youtu.be/KUR_jRvY4ls",
+      "genre": "Techno",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Anna Reusch"
+      ],
+      "venue": "Warehouse on Watts",
+      "title": "Part 1",
+      "link": "https://youtu.be/QoZgfkK9sAU",
+      "genre": "Techno",
+      "upbeat": "true"
     }
   ]
 }
