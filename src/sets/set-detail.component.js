@@ -21,7 +21,7 @@ export class SetDetailComponent extends Component {
                             <b>{this.props.set.artists.join(', ')}</b>
                         </Card.Text>
                     </Card.Body>
-                    <Card.Footer>
+                    <Card.Footer style={{height: "100%"}}>
                         <b>
                             {this.props.set.genre}
                         </b>
