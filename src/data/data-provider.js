@@ -6,8 +6,13 @@ export class DataProvider {
             url = "http://quarantine-sets.s3-website.eu-central-1.amazonaws.com/"
         }
         let response = await fetch(url, {cache: "no-store"});
-        let json = await response.json();
-        return json.data;
+        let {data} = await response.json();
+        return data.map(set => {
+            if (!set.genre) {
+                set.genre = "???";
+            }
+            return set;
+        });
     }
 
 }

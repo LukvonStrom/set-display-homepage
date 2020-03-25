@@ -45,14 +45,23 @@ export class SetDisplayComponent extends Component {
         this.setState({isFetching: true});
         DataProvider.getSets()
             .then(sets => {
-                let genres = [...new Set(sets.map(set => set.genre))].sort();
-                this.setState({sets, isFetching: false, genres})
+                let genreOccurrence = {};
+                let genres = [...new Set(sets.map(({genre}) => {
+                    if(!genreOccurrence[genre]){
+                        genreOccurrence[genre] = 1;
+                    }else{
+                        genreOccurrence[genre] += 1;
+                    }
+
+                    return genre;
+                }))].sort();
+                this.setState({sets, isFetching: false, genres, genreOccurrence})
             })
             .catch(error => this.setState({isFetching: false, error}))
     }
 
-    selectGenre(category){
-        this.setState({selectedGenre: category});
+    selectGenre(selectedGenre){
+        this.setState({selectedGenre});
     }
 
     componentDidMount() {
@@ -64,7 +73,7 @@ export class SetDisplayComponent extends Component {
         return (<Container>
 
             <Row>
-                <SetFilterComponent genres={this.state.genres} selectGenre={this.selectGenre}/>
+                <SetFilterComponent genres={this.state.genres} genreOccurrence={this.state.genreOccurrence} selectGenre={this.selectGenre}/>
             </Row>
 
             {this.state.sets && this.state.sets.length > 0 && this.chunk(preFilteredSets, 3).map((partition, index) =>

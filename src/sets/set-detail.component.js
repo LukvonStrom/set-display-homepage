@@ -23,7 +23,7 @@ export class SetDetailComponent extends Component {
                     </Card.Body>
                     <Card.Footer>
                         <b>
-                            {this.props.set.genre ? this.props.set.genre : "???"}
+                            {this.props.set.genre}
                         </b>
                     </Card.Footer>
                 </a>

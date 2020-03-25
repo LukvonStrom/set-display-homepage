@@ -29,7 +29,7 @@ export class SetFilterComponent extends Component {
                 <Dropdown.Menu>
                     <Dropdown.Item onClick={() => this.selectGenre()} disabled={!this.state.selectedGenre}><FontAwesomeIcon icon={faTrashAlt} /> Filter l&ouml;schen</Dropdown.Item>
                     <Dropdown.Divider />
-                    {this.props.genres.map(genre => !!genre && <Dropdown.Item onClick={() => this.selectGenre(genre)} key={genre}>{genre}</Dropdown.Item>)}
+                    {this.props.genres.map(genre => !!genre && <Dropdown.Item onClick={() => this.selectGenre(genre)} key={genre} active={genre === this.state.selectedGenre}>{genre} ({this.props.genreOccurrence[genre]})</Dropdown.Item>)}
                 </Dropdown.Menu>
             </Dropdown>
         </Col>)
