@@ -47,21 +47,29 @@ export class SetDisplayComponent extends Component {
             .then(sets => {
                 let genreOccurrence = {};
                 let genres = [...new Set(sets.map(({genre}) => {
-                    if(!genreOccurrence[genre]){
+                    if (!genreOccurrence[genre]) {
                         genreOccurrence[genre] = 1;
-                    }else{
+                    } else {
                         genreOccurrence[genre] += 1;
                     }
 
                     return genre;
                 }))].sort();
-                this.setState({sets, isFetching: false, genres, genreOccurrence})
+                this.setState({sets, isFetching: false, genres, genreOccurrence, filteredSets: this.chunk(sets, 3)})
             })
             .catch(error => this.setState({isFetching: false, error}))
     }
 
-    selectGenre(selectedGenre){
-        this.setState({selectedGenre});
+    selectGenre(selectedGenre) {
+        this.setState((state) => {
+            let filteredSetsPlain = (!!selectedGenre && state.sets.filter(({genre}) => genre === selectedGenre)) || state.sets;
+            return {
+                selectedGenre,
+                filteredSets: this.chunk(filteredSetsPlain, 3)
+            }
+        })
+
+
     }
 
     componentDidMount() {
@@ -69,17 +77,19 @@ export class SetDisplayComponent extends Component {
     }
 
     render() {
-        let preFilteredSets = (!!this.state.selectedGenre && !!this.state.sets && this.state.sets.filter(({genre}) => genre === this.state.selectedGenre) ) || this.state.sets;
         return (<Container>
 
             <Row>
-                <SetFilterComponent genres={this.state.genres} genreOccurrence={this.state.genreOccurrence} selectGenre={this.selectGenre}/>
+                <SetFilterComponent genres={this.state.genres} genreOccurrence={this.state.genreOccurrence}
+                                    selectGenre={this.selectGenre}/>
             </Row>
 
-            {this.state.sets && this.state.sets.length > 0 && this.chunk(preFilteredSets, 3).map((partition, index) =>
+            {this.state.filteredSets && this.state.filteredSets.length > 0 && this.state.filteredSets.map((partition, index) =>
                 <Row key={index}>
                     <CardDeck className="my-2" key={index}>
-                        {partition.map(set => <SetDetailComponent set={set} key={set.link}/>)}
+                        {partition.map(set => <SetDetailComponent set={set}
+                                                                  key={Object.values(set).join(',') + "-" + this.state.selectedGenre}
+                                                                  selectedGenre={this.state.selectedGenre}/>)}
                     </CardDeck>
                 </Row>)
             }
