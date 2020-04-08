@@ -1,7 +1,7 @@
 
 export class DataProvider {
     static async getSets() {
-        let url = "https://fruntke.tech/quarantine/data.json";
+        let url = `https://${window.location.hostname}/quarantine/data.json`;
         if(process.env.NODE_ENV !== "production"){
             url = "http://quarantine-sets.s3-website.eu-central-1.amazonaws.com/"
         }

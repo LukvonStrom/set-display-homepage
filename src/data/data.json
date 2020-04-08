@@ -10,26 +10,7 @@
       "genre": "Techno",
       "upbeat": false
     },
-    {
-      "artists": [
-        "GHEIST"
-      ],
-      "venue": "Watergate",
-      "title": "United We Stream",
-      "link": "https://youtu.be/UAbuwrLqRd4?t=7225",
-      "genre": "Techno",
-      "upbeat": "false"
-    },
-    {
-      "artists": [
-        "Monika Kruse"
-      ],
-      "venue": "Watergate",
-      "title": "United We Stream",
-      "link": "https://youtu.be/UAbuwrLqRd4?t=10846",
-      "genre": "Techno",
-      "upbeat": "false"
-    },
+
     {
       "artists": [
         "Einmusik",
@@ -39,6 +20,16 @@
       "title": "Cercle",
       "link": "https://youtu.be/cVFzblT5VPE",
       "genre": "Tech House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "GHEIST"
+      ],
+      "venue": "Watergate",
+      "title": "United We Stream",
+      "link": "https://youtu.be/UAbuwrLqRd4?t=7225",
+      "genre": "Techno",
       "upbeat": "false"
     },
     {
@@ -69,7 +60,7 @@
       "venue": "",
       "title": "Corona Sabbath",
       "link": "https://youtu.be/q_Ug0FIpFIQ",
-      "genre": "Electro",
+      "genre": "EDM",
       "upbeat": "false"
     },
     {
@@ -125,16 +116,6 @@
     },
     {
       "artists": [
-        "Neelix"
-      ],
-      "venue": "",
-      "title": "Lets Just Leave",
-      "link": "https://youtu.be/p5pCV9LTbjM",
-      "genre": "Progressive Psy Trance",
-      "upbeat": "true"
-    },
-    {
-      "artists": [
         "Stuckeyrella"
       ],
       "venue": "sunshine live",
@@ -161,7 +142,7 @@
       "venue": "Bootshaus",
       "title": "DEEPBLUE",
       "link": "https://youtu.be/LmhrCa99IE0",
-      "genre": "",
+      "genre": "EDM",
       "upbeat": "true"
     },
     {
@@ -213,7 +194,7 @@
       "venue": "",
       "title": "#StayAtHome Corona Virus DJ Set",
       "link": "https://youtu.be/nl10hDt44G8",
-      "genre": "",
+      "genre": "EDM",
       "upbeat": "true"
     },
     {
@@ -277,7 +258,7 @@
       "venue": "",
       "title": "Isolation/Coronavirus Set",
       "link": "https://youtu.be/1IW0_e_BT4w",
-      "genre": "",
+      "genre": "Drum and Bass",
       "upbeat": "true"
     },
     {
@@ -317,7 +298,7 @@
       "venue": "",
       "title": "Mau5trap Radio 11.03.2020",
       "link": "https://youtu.be/MwIP7SOxRR0",
-      "genre": "",
+      "genre": "Techno",
       "upbeat": "true"
     },
     {
@@ -342,12 +323,42 @@
     },
     {
       "artists": [
+        "Time Lies"
+      ],
+      "venue": "",
+      "title": "Corontäne-Knaller Vol. 3 - One more Keim",
+      "link": "https://youtu.be/dhP1gXCPJvU",
+      "genre": "Satire",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
         "I_O"
       ],
       "venue": "THE LAB LA",
       "title": "",
       "link": "https://youtu.be/nuOZULmbZPc",
       "genre": "Techno/Tech House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "James Hype"
+      ],
+      "venue": "London Underground",
+      "title": "4 Decks in the Mix",
+      "link": "https://youtu.be/6An7fH_xqr8",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Da Tweekaz"
+      ],
+      "venue": "EDC Mexico 2020",
+      "title": "",
+      "link": "https://youtu.be/fNyQl6juTbg",
+      "genre": "Hard Style",
       "upbeat": "true"
     },
     {
@@ -362,6 +373,26 @@
     },
     {
       "artists": [
+        "Monika Kruse"
+      ],
+      "venue": "Watergate",
+      "title": "United We Stream",
+      "link": "https://youtu.be/UAbuwrLqRd4?t=10846",
+      "genre": "Techno",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "James Hype"
+      ],
+      "venue": "Home",
+      "title": "Live Stream 25.03.",
+      "link": "https://youtu.be/TsrcsPvjsac?t=432",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
         "Anna Reusch"
       ],
       "venue": "Warehouse on Watts",
@@ -369,6 +400,399 @@
       "link": "https://youtu.be/QoZgfkK9sAU",
       "genre": "Techno",
       "upbeat": "true"
+    },
+    {
+      "artists": [
+        "WeDamnz"
+      ],
+      "venue": "",
+      "title": "HIDE-OUT #1",
+      "link": "https://youtu.be/2vE7DxyHQJU",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Fadi Mohem"
+      ],
+      "venue": "Zur Klappe",
+      "title": "United We Stream",
+      "link": "https://youtu.be/KIawKBLWdPc?t=10874",
+      "genre": "Techno",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Neelix"
+      ],
+      "venue": "",
+      "title": "Lets Just Leave",
+      "link": "https://youtu.be/p5pCV9LTbjM",
+      "genre": "Progressive Psy Trance",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Clara Cuvé"
+      ],
+      "venue": "Zur Klappe",
+      "title": "United We Stream",
+      "link": "https://youtu.be/KIawKBLWdPc?t=14494lll",
+      "genre": "Techno",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Dillon Francis"
+      ],
+      "venue": "",
+      "title": "Taco Tuesday",
+      "link": "https://youtu.be/1o1-AMQrN8E",
+      "genre": "Moombahton",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Hot Since 82",
+        "Michael Bibi"
+      ],
+      "venue": "Daley's kitchen Stream",
+      "title": "",
+      "link": "https://youtu.be/ITDf4KhJUXE",
+      "genre": "Tech House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Dillon Francis",
+        "Diplo"
+      ],
+      "venue": "",
+      "title": "Coronight Fever",
+      "link": "https://youtu.be/MK7CGMKaFts",
+      "genre": "EDM",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Will Smith"
+      ],
+      "venue": "",
+      "title": "chill beats to quarantine to",
+      "link": "https://youtu.be/rA56B4JyTgI",
+      "genre": "Lo-Fi",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "JOYRYDE"
+      ],
+      "venue": "",
+      "title": "Beyond Wonderland",
+      "link": "https://youtu.be/WkTY1uTl85s",
+      "genre": "Dubstep",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Marc Rebillet"
+      ],
+      "venue": "",
+      "title": "The final Quaranstream",
+      "link": "https://youtu.be/eYNNz0tvWvM",
+      "genre": "???",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "RÜFÜS DU SOL"
+      ],
+      "venue": "Joshua Tree Park",
+      "title": "",
+      "link": "https://youtu.be/Zy4KtD98S2c",
+      "genre": "EDM",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Deepend"
+      ],
+      "venue": "SLAM!",
+      "title": "",
+      "link": "https://youtu.be/s-F0nwf6ROQ",
+      "genre": "EDM",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Alex Moreira"
+      ],
+      "venue": "",
+      "title": "Best Of Old School Reggaeton",
+      "link": "https://youtu.be/_haD7XZ2wNg",
+      "genre": "Reggaeton",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Scooter"
+      ],
+      "venue": "",
+      "title": "I WANT YOU TO STREAM !!!",
+      "link": "https://youtu.be/d1pj9Vmn-q4?t=43",
+      "genre": "Eurodance",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "James Hype"
+      ],
+      "venue": "Home",
+      "title": "Live Stream 28.03.",
+      "link": "https://youtu.be/m9pHoOQsUKk?t=713ll",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Nora En Pure"
+      ],
+      "venue": "CRSSD Festival",
+      "title": "",
+      "link": "https://youtu.be/1NnOJje-ro4",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Giolì & Assia"
+      ],
+      "venue": "#DiesisLounge @Episode01",
+      "title": "",
+      "link": "https://youtu.be/9Wi_tkp4DcU",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "James Hype"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/vUYZjeyKQpw",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Blasterjaxx"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/I2TnQrO3U3Q",
+      "genre": "EDM",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Calvin Harris"
+      ],
+      "venue": "",
+      "title": "Love Regenerator Livestream",
+      "link": "https://youtu.be/2QBjvA6cT4w",
+      "genre": "EDM",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Paul van Dyk",
+        "Chris Bekker"
+      ],
+      "venue": "Berlin DJ Mag House Party",
+      "title": "",
+      "link": "https://youtu.be/LlB6Fh2P_0s",
+      "genre": "Trance",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Fatboy Slim"
+      ],
+      "venue": "",
+      "title": "Lockdown Mixtape",
+      "link": "https://youtu.be/fl5BjSWhC0A",
+      "genre": "EDM",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Pete Tong"
+      ],
+      "venue": "",
+      "title": "Lockdown Hot Mix!",
+      "link": "https://youtu.be/ewBUus3sGKU",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Keanu Silva"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/-dK0nBw3yWU",
+      "genre": "EDM",
+      "upbeat": "true"
+    },
+    {
+      "artists":[
+        "Mike Williams"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/7VTn0Ku617g",
+      "genre": "EDM",
+      "upbeat": false
+    },
+    {
+      "artists":[
+        "Lost Frequencies"
+      ],
+      "venue": "",
+      "title": "Found Frequencies Quarantine Mix",
+      "link": "https://youtu.be/fbzU6lcXT34",
+      "genre": "EDM",
+      "upbeat": false
+    },
+    {
+      "artists":[
+        "La Fuente"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/LYuj1RZzIZs",
+      "genre": "House",
+      "upbeat": false
+    },
+    {
+      "artists": [
+        "Anna Reusch"
+      ],
+      "venue": "Fridas Pier",
+      "title": "United We Stream",
+      "link": "https://youtu.be/n_M-JpOHohc?t=9256",
+      "genre": "Techno",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Karotte"
+      ],
+      "venue": "Fridas Pier",
+      "title": "United We Stream",
+      "link": "https://youtu.be/n_M-JpOHohc?t=4687",
+      "genre": "Techno",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Konstantin Sibold"
+      ],
+      "venue": "Fridas Pier",
+      "title": "United We Stream",
+      "link": "https://youtu.be/n_M-JpOHohc?t=60",
+      "genre": "Techno",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Nora En Pure"
+      ],
+      "venue": "Beatport 24h live stream",
+      "title": "",
+      "link": "https://youtu.be/RreRFEDVQ6g",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Adam Beyer"
+      ],
+      "venue": "Drumcode Indoors 2020",
+      "title": "",
+      "link": "https://youtu.be/pRX3n5aWuOI",
+      "genre": "Techno",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Chris Liebing"
+      ],
+      "venue": "ReConnect",
+      "title": "",
+      "link": "https://youtu.be/dKUzEQnEpVk",
+      "genre": "Techno",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Eats Everything"
+      ],
+      "venue": "ReConnect",
+      "title": "",
+      "link": "https://youtu.be/si4wipsGkmM",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "A-Trak"
+      ],
+      "venue": "ReConnect",
+      "title": "",
+      "link": "https://youtu.be/VQu2So_zmKk",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Carl Cox"
+      ],
+      "venue": "ReConnect",
+      "title": "",
+      "link": "https://youtu.be/B7nNoR7UIDo",
+      "genre": "Techno/House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Paul Oakenfold"
+      ],
+      "venue": "ReConnect",
+      "title": "",
+      "link": "https://youtu.be/Mj2WJ-8dMWA",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Joel Corry"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/WCKcaZobfHg",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
+        "Lucas & Steve"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/TELrkp9wnpY",
+      "genre": "House",
+      "upbeat": "false"
     }
   ]
 }
