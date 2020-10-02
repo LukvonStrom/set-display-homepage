@@ -12,6 +12,16 @@
     },
     {
       "artists": [
+        "Giolì & Assia"
+      ],
+      "venue": "#DiesisLounge @Episode01",
+      "title": "",
+      "link": "https://youtu.be/9Wi_tkp4DcU",
+      "genre": "House",
+      "upbeat": "false"
+    },
+    {
+      "artists": [
         "Nora En Pure"
       ],
       "venue": "Beatport 24h live stream",
@@ -308,6 +318,16 @@
     },
     {
       "artists": [
+        "Timmy Trumpet"
+      ],
+      "venue": "Sydney",
+      "title": "",
+      "link": "https://youtu.be/_wehtzEmz9U?t=22",
+      "genre": "House",
+      "upbeat": true
+    },
+    {
+      "artists": [
         "I_O"
       ],
       "venue": "THE LAB LA",
@@ -315,6 +335,16 @@
       "link": "https://youtu.be/nuOZULmbZPc",
       "genre": "Techno/Tech House",
       "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Adam Beyer"
+      ],
+      "venue": "Ultra Music Festival Miami 2019",
+      "title": "",
+      "link": "https://youtu.be/KLlyMLNyTMw",
+      "genre": "Techno",
+      "upbeat": true
     },
     {
       "artists": [
@@ -502,6 +532,16 @@
     },
     {
       "artists": [
+        "James Hype"
+      ],
+      "venue": "",
+      "title": "Going To The Supermarket...",
+      "link": "https://youtu.be/DB5rHnmsag8",
+      "genre": "House",
+      "upbeat": true
+    },
+    {
+      "artists": [
         "WeDamnz"
       ],
       "venue": "",
@@ -562,26 +602,6 @@
     },
     {
       "artists": [
-        "James Hype"
-      ],
-      "venue": "Home",
-      "title": "Live Stream 25.03.",
-      "link": "https://youtu.be/TsrcsPvjsac?t=432",
-      "genre": "House",
-      "upbeat": "true"
-    },
-    {
-      "artists": [
-        "James Hype"
-      ],
-      "venue": "Home",
-      "title": "Live Stream 28.03.",
-      "link": "https://youtu.be/m9pHoOQsUKk?t=713ll",
-      "genre": "House",
-      "upbeat": "true"
-    },
-    {
-      "artists": [
         "Pete Tong"
       ],
       "venue": "",
@@ -599,26 +619,6 @@
       "link": "https://youtu.be/fl5BjSWhC0A",
       "genre": "EDM",
       "upbeat": "false"
-    },
-    {
-      "artists": [
-        "Calvin Harris"
-      ],
-      "venue": "",
-      "title": "Love Regenerator Livestream",
-      "link": "https://youtu.be/2QBjvA6cT4w",
-      "genre": "EDM",
-      "upbeat": "true"
-    },
-    {
-      "artists": [
-        "Deadmau5"
-      ],
-      "venue": "",
-      "title": "Mau5trap Radio 11.03.2020",
-      "link": "https://youtu.be/MwIP7SOxRR0",
-      "genre": "Techno",
-      "upbeat": "true"
     },
     {
       "artists": [
@@ -791,6 +791,375 @@
       "title": "United We Stream",
       "link": "https://youtu.be/KIawKBLWdPc?t=14494lll",
       "genre": "Techno",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Mr. Belt & Wezol"
+      ],
+      "venue": "WONDR Amsterdam",
+      "title": "SLAM!",
+      "link": "https://youtu.be/_OGLBK22Jhc",
+      "genre": "House",
+      "upbeat": true
+    },
+    {
+      "artists": [
+        "Alle Farben"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/OaQYaAoAWZU",
+      "genre": "EDM"
+    },
+    {
+      "artists": [
+        "Olivier Weiter"
+      ],
+      "venue": "SLAM! Dj Booth",
+      "title": "SLAM!",
+      "link": "https://youtu.be/Gi-qckTflIc",
+      "genre": "Techno"
+    },
+    {
+      "artists": [
+        "Mike Williams"
+      ],
+      "venue": "",
+      "title": "SLAM! x Spinnin’ presents Kingsday",
+      "link": "https://youtu.be/bjUj8_h7tYs",
+      "genre": "EDM"
+    },
+    {
+      "artists": [
+        "La Fuente"
+      ],
+      "venue": "",
+      "title": "SLAM! x Spinnin’ presents Kingsday",
+      "link": "https://youtu.be/DiS3vnlnd3c",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "Billy The Kit"
+      ],
+      "venue": "Madurodam",
+      "title": "SLAM!",
+      "link": "https://youtu.be/MF124145M4g",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "La Fuente"
+      ],
+      "venue": "",
+      "title": "SLAM! x Emporium Festival",
+      "link": "https://youtu.be/ixAqlQtpj3k",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "D-Block & S-te-Fan"
+      ],
+      "venue": "",
+      "title": "SLAM! x Emporium Festival",
+      "link": "https://youtu.be/u06APDm6cEE",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "D-Block & S-te-Fan"
+      ],
+      "venue": "The Hague",
+      "title": "Home Town Session",
+      "link": "https://youtu.be/XPvZPHXH9w0",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "Wildstylez"
+      ],
+      "venue": "",
+      "title": "SLAM! x Emporium Festival",
+      "link": "https://youtu.be/7Zk_FE7gMDs",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "Brooks"
+      ],
+      "venue": "",
+      "title": "SLAM! x Emporium Festival",
+      "link": "https://youtu.be/WlS_IU1mH4I",
+      "genre": "EDM"
+    },
+    {
+      "artists": [
+        "Tony Junior"
+      ],
+      "venue": "",
+      "title": "SLAM! x Emporium Festival",
+      "link": "https://youtu.be/V0zcwjJgAX0",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "Charly Lownoise"
+      ],
+      "venue": "SLAM! Dj Booth",
+      "title": "SLAM!",
+      "link": "https://youtu.be/qQzN_-9wJM0",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "Mr.Belt & Wezol"
+      ],
+      "venue": "Alpaca World Brielle",
+      "title": "",
+      "link": "https://youtu.be/ymr3FJK2JMM",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "Nicky Romero"
+      ],
+      "venue": "SLAM! Koningsnacht Festival",
+      "title": "",
+      "link": "https://youtu.be/3RnVExQE1fE",
+      "genre": "EDM"
+    },
+    {
+      "artists": [
+        "Maurice West"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/ThgM7M5q46I",
+      "genre": "EDM"
+    },
+    {
+      "artists": [
+        "Burak Yeter"
+      ],
+      "venue": "SLAM! Quarantine Festival",
+      "title": "",
+      "link": "https://youtu.be/Wf8NBb5bi2w",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "Bakermat"
+      ],
+      "venue": "Hof Van Twente",
+      "title": "",
+      "link": "https://youtu.be/U7JKifvBAbQ",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "Loud Luxury"
+      ],
+      "venue": "Room Service Festival",
+      "title": "",
+      "link": "https://youtu.be/KdJFNiatY9Y",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "Oliver Heldens"
+      ],
+      "venue": "The Royal Concertgebouw Amsterdam",
+      "title": "",
+      "link": "https://youtu.be/ClwVHOND8PQ",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "Purple Disco Machine"
+      ],
+      "venue": "Dresden",
+      "title": "Glitterbox Virtual Festival",
+      "link": "https://youtu.be/NiBIQMaMo_0",
+      "genre": "Dance"
+    },
+    {
+      "artists": [
+        "Wildstylez"
+      ],
+      "venue": "Art of Creation",
+      "title": "",
+      "link": "https://youtu.be/caEGOJWXodE",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "Harris & Ford"
+      ],
+      "venue": "World Club Dome Roof Sessions",
+      "title": "",
+      "link": "https://youtu.be/ThrRQoIUy4U",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "le shuuk & friends"
+      ],
+      "venue": "Autokino Düsseldorf",
+      "title": "",
+      "link": "https://youtu.be/CoFwhtpF384?t=756",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "le shuuk"
+      ],
+      "venue": "Switch to Twitch",
+      "title": "WCD 2020 Release Party",
+      "link": "https://youtu.be/UFsaWSq6z4k",
+      "genre": "Hardstyle"
+    },
+    {
+      "artists": [
+        "SHDW & Obscure Shape"
+      ],
+      "venue": "Loft Ludwigshafen",
+      "title": "United We Stream",
+      "link": "https://youtu.be/uRO_b7IkiWQ?t=11306",
+      "genre": "Techno"
+    },
+    {
+      "artists": [
+        "Carl Cox"
+      ],
+      "venue": "Defected Virtual Festival",
+      "title": "",
+      "link": "https://youtu.be/1_t6OpFw2Vc",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "AKKI"
+      ],
+      "venue": "Nature One 2019",
+      "title": "",
+      "link": "https://youtu.be/ybxDR4SsaBU",
+      "genre": "Techno"
+    },
+    {
+      "artists": [
+        "Infected Mushroom"
+      ],
+      "venue": "Studio Set",
+      "title": "",
+      "link": "https://youtu.be/ZW9-aaA-vAs",
+      "genre": "PsyTrance"
+    },
+    {
+      "artists":[
+      "Nusha"
+    ],
+      "venue": "StellarBeat Festival",
+      "title": "MUSIC:ON",
+      "link": "https://youtu.be/W65r9QHV4AA",
+      "genre": "Techno"
+    },
+    {
+      "artists":[
+        "Nusha"
+      ],
+      "venue": "",
+      "title": "Home Delivery #1",
+      "link": "https://youtu.be/KabsTRKgFjk",
+      "genre": "Techno"
+    },
+    {
+      "artists":[
+        "Nora En Pure"
+      ],
+      "venue": "Home ",
+      "title": "Stream II",
+      "link": "https://youtu.be/_8ZzQ0UoJs0",
+      "genre": "House"
+    },
+    {
+      "artists": [
+        "James Hype"
+      ],
+      "venue": "SW4 Virtual Festival",
+      "title": "",
+      "link": "https://youtu.be/rY8vZGsOHoM",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "James Hype"
+      ],
+      "venue": "STEREOHYPE Launce",
+      "title": "",
+      "link": "https://youtu.be/HbixJbQCaU0",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Dots Per Inch"
+      ],
+      "venue": "STEREOHYPE Launce",
+      "title": "",
+      "link": "https://youtu.be/ITxq-9yHlPU",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Gourski"
+      ],
+      "venue": "Lanxess Arena Rooftop",
+      "title": "",
+      "link": "https://youtu.be/DuXzIWZcLcU",
+      "genre": "Drum and Bass",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Nino Locksen"
+      ],
+      "venue": "LKA Longhorn Stuttgart",
+      "title": "",
+      "link": "https://youtu.be/KwLV1oTte9A",
+      "genre": "PsyTrance",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Nino Locksen"
+      ],
+      "venue": "Triberger Wasserfälle",
+      "title": "",
+      "link": "https://youtu.be/WN8Xe7R_VmQ",
+      "genre": "PsyTrance",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Ben Böhmer"
+      ],
+      "venue": "Balloon over Cappadocia",
+      "title": "",
+      "link": "https://youtu.be/RvRhUHTV_8k",
+      "genre": "House",
+      "upbeat": "true"
+    },
+    {
+      "artists": [
+        "Becky Hill"
+      ],
+      "venue": "Radio 1 Dance Weekend",
+      "title": "",
+      "link": "https://youtu.be/fvBhgaWHCsw",
+      "genre": "Dance",
       "upbeat": "true"
     }
   ]
